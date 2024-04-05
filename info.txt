@@ -1,1 +1,2 @@
 this is my first file to commit
+changing the commits from one branch to other 
